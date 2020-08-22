@@ -1,0 +1,20 @@
+{
+  "name": "proxy-cutter",
+  "version": "1.0.0",
+  "description": "String Cutter Express Middleware",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeneralMine/proxy-cutter.git"
+  },
+  "keywords": ["express", "middleware", "proxy", "cutter", "string manipulation"],
+  "author": "GeneralMine",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GeneralMine/proxy-cutter/issues"
+  },
+  "homepage": "https://github.com/GeneralMine/proxy-cutter#readme"
+}
