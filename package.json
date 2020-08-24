@@ -1,6 +1,6 @@
 {
   "name": "proxy-cutter",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "String Cutter Express Middleware",
   "main": "index.js",
   "scripts": {
